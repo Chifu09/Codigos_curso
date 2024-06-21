@@ -1,0 +1,8 @@
+Encabezado
+Brenda,Cifuentes,Aguilar,Mexicana,16,202209,7
+Omar,Morales,Diaz,Mexicano,17,202289,8
+
+#Este es un comentario
+Frida,Avila,Alejandre,Mexicana,16,202265,4
+Mauro,Corona,Ramirez,Mexicano,16,202234,5
+

@@ -1,0 +1,6 @@
+Nombre,ApellidoPaterno,ApellidoMaterno
+Isaac,Valdez,Velasquez,Mexicana,15,202209,7
+Mauro,Ruiz,Ruiseco,Amercicana,11,202209,2
+Renata,Velasquez,Velasquez,Amercicana,11,205362,6
+Diego,Ruiz,Morales,China,15,205362,6
+Brenda,Ruiz,Ruiseco,Mexicana,16,223201,2

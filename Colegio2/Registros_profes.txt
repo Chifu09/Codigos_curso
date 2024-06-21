@@ -1,0 +1,6 @@
+Nombre,Paterno,Materno,Nacionalidad,Edad,Materia,No_empleado
+Hector,Cifuentes,Valdez,Mexicana,45,Ingles,234565
+Maria,Aguilar,Rodriguez,China,34,Matematicas,242356
+   @Este es un comentario
+Ruben,Morales,Diaz,Argentino,67,Fisica,879865
+Paola,Juarez,Mendoza,Cubana,25,Danza,435678

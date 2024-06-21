@@ -1,0 +1,6 @@
+Nombre,Paterno,Materno,Nacionalidad,Edad,Puesto,Clave
+Marco,Corona,Rodriguez,Brasileño,46,Administrativo,646354
+Omar,Morales,Aguilar,Mexicano,35,Director,000000
+     @Este es otro comentario
+Brenda,Cifuentes,Aguirre,Mexicana,65,Contador,785634
+Juan,Martinez,Gonzales,Japones,34,Limpieza,908756
